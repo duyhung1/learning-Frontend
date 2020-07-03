@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Duepuntozero";
+    src: url("../font/duepuntozero/Duepuntozero-Black-Trial.ttf");
+    src: url("../font/duepuntozero/Duepuntozero-Bold-Trial.ttf");
+    src: url("../font/duepuntozero/Duepuntozero-ExtraBoldTrial.ttf");
+    src: url("../font/duepuntozero/Duepuntozero-ExtraLight-Trial.ttf");
+    src: url("../font/duepuntozero/Duepuntozero-Regular-Trial.ttf");
+    src: url("../font/duepuntozero/duepuntozero_black.otf");
+    src: url("../font/duepuntozero/duepuntozero_bold.otf");
+    src: url("../font/duepuntozero/duepuntozero_extrabold.otf");
+    src: url("../font/duepuntozero/duepuntozero_extralight.otf");
+    src: url("../font/duepuntozero/duepuntozero_regular.otf");
+    font-weight: normal;
+    font-style: normal;
+  }
